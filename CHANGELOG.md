@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - 2026-06-16
+
+- Updated TOC for 12.0.7
+
 ## 1.0.2 - 2026-05-12
 
 - Fixed version in TOC

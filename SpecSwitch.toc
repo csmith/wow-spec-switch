@@ -1,8 +1,8 @@
-## Interface: 120005
+## Interface: 120007, 120005 
 
 ## Title: SpecSwitch
 ## Notes: Switch specs via /spec with name, prefix, and initialism matching
-## Version: 1.0.2
+## Version: dev 
 ## DefaultState: Enabled
 
 SpecSwitch.lua
